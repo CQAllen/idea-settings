@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="横向纵向" />
+      <item value="纵向" />
+      <item value="横向" />
+      <item value="hor" />
+      <item value="横转纵" />
+      <item value="横纵" />
+      <item value="横" />
       <item value="限流" />
       <item value="其中之一" />
       <item value="all" />
@@ -44,18 +51,11 @@
       <item value="coders" />
       <item value="coder" />
       <item value="program" />
-      <item value="编程" />
-      <item value="程序员" />
-      <item value="ddap-micro-services" />
-      <item value="splitter" />
-      <item value="engineer" />
-      <item value="高级工程师" />
-      <item value="架构师" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
