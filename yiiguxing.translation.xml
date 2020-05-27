@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="praise" />
+      <item value="赞" />
+      <item value="点赞" />
+      <item value="discuss" />
+      <item value="评论" />
       <item value="对比" />
       <item value="活跃" />
       <item value="趋势" />
@@ -46,16 +51,11 @@
       <item value="o" />
       <item value="crypt" />
       <item value="加密" />
-      <item value="crypto" />
-      <item value="Mnemonic" />
-      <item value="Mnemonic " />
-      <item value="Opcode" />
-      <item value="in hex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
