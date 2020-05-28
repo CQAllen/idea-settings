@@ -67,7 +67,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="psf_private" value="/**&#10; *&#10; */&#10;private static final " description="private static final" toReformat="false" toShortenFQNames="true">
+  <template name="psf_pri" value="/**&#10; *&#10; */&#10;private static final " description="private static final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -79,6 +79,11 @@
     </context>
   </template>
   <template name="lt_log_ex" value="logger.error(&quot;&quot;, ex);" description="增加异常日志" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psf_pub" value="/**&#10; *&#10; */&#10;private static final " description="public static final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
