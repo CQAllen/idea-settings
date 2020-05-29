@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="组件" />
       <item value="穿山甲" />
       <item value="impushMaterial" />
       <item value="imMaterial" />
@@ -50,7 +51,6 @@
       <item value="1 partitions have leader brokers without a matching listener, including" />
       <item value="consumer" />
       <item value="root" />
-      <item value="is duplicated in module" />
     </histories>
     <option name="languageScores">
       <map>
