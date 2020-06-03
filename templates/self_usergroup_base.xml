@@ -83,7 +83,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="psf_pub" value="/**&#10; *&#10; */&#10;private static final " description="public static final" toReformat="false" toShortenFQNames="true">
+  <template name="psf_pub" value="/**&#10; *&#10; */&#10;public static final " description="public static final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
