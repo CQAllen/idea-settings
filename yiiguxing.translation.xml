@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="done" />
+      <item value="执行" />
       <item value="操作日志" />
       <item value="reset" />
       <item value="resert" />
@@ -49,12 +51,10 @@
       <item value="对比" />
       <item value="活跃" />
       <item value="趋势" />
-      <item value="发布数" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
+        <entry key="CHINESE" value="115" />
         <entry key="ENGLISH" value="115" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
