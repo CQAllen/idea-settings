@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operate" />
+      <item value="操作" />
+      <item value="opera" />
+      <item value="threshold" />
+      <item value="Threshold" />
+      <item value="阈值" />
       <item value="You have no right to access this object because of bucket acl." />
       <item value="done" />
       <item value="执行" />
@@ -45,17 +51,11 @@
       <item value="权限" />
       <item value="自定义ui" />
       <item value="praise" />
-      <item value="赞" />
-      <item value="点赞" />
-      <item value="discuss" />
-      <item value="评论" />
-      <item value="对比" />
-      <item value="活跃" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
