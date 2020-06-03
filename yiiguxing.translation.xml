@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have no right to access this object because of bucket acl." />
       <item value="done" />
       <item value="执行" />
       <item value="操作日志" />
@@ -50,7 +51,6 @@
       <item value="评论" />
       <item value="对比" />
       <item value="活跃" />
-      <item value="趋势" />
     </histories>
     <option name="languageScores">
       <map>
