@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="SpringBoot 中 @ConfigurationProperties 配置后 apollo 自动刷新。md" type="PLAIN_TEXT" />
       <mapping pattern="application" type="PLAIN_TEXT" />
+      <mapping pattern="SpringBoot 中 @ConfigurationProperties 配置后 apollo 自动刷新。md" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
