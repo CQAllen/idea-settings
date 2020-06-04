@@ -1,20 +1,22 @@
-<templateSet group="usergroup_base">
-  <template name="lt_log_slf4j" value="// Logger打印日志对象&#10;private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());$END$" description="logger日志对象" toReformat="false" toShortenFQNames="true">
+<templateSet group="self_usergroup_base">
+  <template name="lt_log_slf4j" value="// Logger打印日志对象&#10;$END$private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_method_author" value="/**&#10;*@Description: $discription$&#10;*@Param: $params$&#10;*@return: $return$&#10;*@Author: huaiao&#10;*@date: $date$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
-    <variable name="discription" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="lt_method_author" value="/**&#10; * $index$&#10; * @param: $params$&#10; * @return: $return$&#10; * @author: huaiao&#10; * @date: $DATE$-$TIME$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_class_author" value="/**&#10; *@description: &#10; *@author: huaiao&#10; *@create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+  <template name="lt_class_author" value="/**&#10; * $index$&#10; * @author: huaiao&#10; * @create: $DATE$-$TIME$&#10; */" description="java添加类说明" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -33,12 +35,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_endtime" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;logger.warn(&quot;$END$接口耗时:{}秒~&quot;,seconds);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_end" value="long timeMillis = Profiler.end();" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_begintime" value="$END$long beginTime = System.currentTimeMillis();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_begin" value="Profiler.begin();" description="打印接口耗时-begintime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -49,7 +51,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_end_sout_time" value="long endTime = System.currentTimeMillis();&#10;double seconds = (endTime - beginTime) / 1000.00;&#10;&#10;System.out.println(&quot;接口耗时:{&quot; + seconds + &quot;}秒~&quot;);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+  <template name="lt_time_end_sout" value="long timeMillis = Profiler.end();&#10;System.out.println(StrUtil.format(&quot;接口耗时毫秒数:{}&quot;, timeMillis));" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -61,6 +63,27 @@
   </template>
   <template name="lt_new" value="$CURRENT_CLASS$ instance  = new $CURRENT_CLASS$();" description="实例化当前类" toReformat="false" toShortenFQNames="true">
     <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psf_pri" value="/**&#10; *&#10; */&#10;private static final " description="private static final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_time_end_log" value="long timeMillis = Profiler.end();&#10;logger.warn(&quot;$current$接口耗时毫秒数:{}&quot;,timeMillis);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
+    <variable name="current" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_log_ex" value="logger.error(&quot;&quot;, ex);" description="增加异常日志" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psf_pub" value="/**&#10; *&#10; */&#10;public static final " description="public static final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

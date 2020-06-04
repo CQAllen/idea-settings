@@ -9,12 +9,17 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*Vo.java</mask>
     <mask>*.yml</mask>
     <mask>*Contr.*</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.*</mask>
+    <mask>*Dto.java</mask>
+    <mask>*Vo.java</mask>
+    <mask>*Control*.java</mask>
+    <mask>*.properties</mask>
+    <mask>*Mapper.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.md</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
   </component>

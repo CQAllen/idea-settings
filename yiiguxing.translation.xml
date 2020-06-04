@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="service" />
-      <item value="server" />
-      <item value="stopPruning" />
-      <item value="javassist" />
-      <item value="instrument" />
-      <item value="监控" />
-      <item value="pinpoint" />
-      <item value="Builtin" />
-      <item value="Secure" />
-      <item value="contact" />
-      <item value="业主" />
-      <item value="排除" />
-      <item value="Minutes" />
-      <item value="Timeliness" />
-      <item value="时效性" />
-      <item value="Note that this implementation is not synchronized." />
-      <item value="源码" />
-      <item value="metrics" />
-      <item value="compression" />
-      <item value="Hystrix circuit short-circuited and is OPEN" />
-      <item value="Gets the proxy port to eureka server if any" />
-      <item value="Renews" />
-      <item value="Flag to enable the Eureka dashboard. Default true" />
-      <item value="The path to the Eureka dashboard (relative to the servlet path). Defaults to" />
-      <item value="archaius" />
-      <item value="Indicates how much time (in seconds) that the HTTP connections to eureka server can stay idle before it can be closed. In the AWS environment, it is recommended that the values is 30 seconds or less, since the firewall cleans up the connection information after a few mins leaving the connection hanging in limbo." />
-      <item value="transport" />
-      <item value="with an explicit Types value to specify the type to use" />
-      <item value="BinaryOperator" />
-      <item value="Value converter (a single value counts '1')" />
-      <item value="extractor" />
-      <item value="Table configuration with catalog null, schema log, and table ConfigLog did not resolve to any tables" />
-      <item value="Field injection is not recommended" />
-      <item value="-1 is response write filter, must be called before that" />
-      <item value="predicates" />
-      <item value="THE SELF PRESERVATION MODE IS TURNED OFF. THIS MAY NOT PROTECT INSTANCE EXPIRY IN CASE OF NETWORK/OTHER PROBLEMS." />
-      <item value="tracing" />
-      <item value="distributed" />
-      <item value="distribute " />
-      <item value="Circuit Breaker" />
-      <item value="Features" />
-      <item value="tra" />
-      <item value="distr" />
-      <item value="registry" />
-      <item value="regist" />
-      <item value="hierarchical-multi-select" />
-      <item value="listener" />
-      <item value="gateway" />
-      <item value="Micro" />
-      <item value="Microservice" />
+      <item value="operate" />
+      <item value="操作" />
+      <item value="opera" />
+      <item value="threshold" />
+      <item value="Threshold" />
+      <item value="阈值" />
+      <item value="You have no right to access this object because of bucket acl." />
+      <item value="done" />
+      <item value="执行" />
+      <item value="操作日志" />
+      <item value="reset" />
+      <item value="resert" />
+      <item value="统计类" />
+      <item value="aspect" />
+      <item value="inspect" />
+      <item value="实时统计" />
+      <item value="实时" />
+      <item value="not marked as ignorable" />
+      <item value="退订" />
+      <item value="topic" />
+      <item value="engine" />
+      <item value="May" />
+      <item value="You probably have a syntax error in your SpEL expression!" />
+      <item value="组件" />
+      <item value="穿山甲" />
+      <item value="impushMaterial" />
+      <item value="imMaterial" />
+      <item value="Material" />
+      <item value="活跃度" />
+      <item value="statistics" />
+      <item value="统计" />
+      <item value="设置字段默认值" />
+      <item value="设置默认值" />
+      <item value="转换" />
+      <item value="人" />
+      <item value="横向纵向" />
+      <item value="纵向" />
+      <item value="横向" />
+      <item value="hor" />
+      <item value="横转纵" />
+      <item value="横纵" />
+      <item value="横" />
+      <item value="限流" />
+      <item value="其中之一" />
+      <item value="all" />
+      <item value="permission" />
+      <item value="授权" />
+      <item value="权限" />
+      <item value="自定义ui" />
+      <item value="praise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
