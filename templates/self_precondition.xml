@@ -1,0 +1,14 @@
+<templateSet group="self_precondition">
+  <template name="lt_pre_state" value="Preconditions.checkState($state$, &quot;&quot;);" description="guava-precondition-校验参数" toReformat="false" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_pre_argument" value="Preconditions.checkArgument($index$,&quot;&quot;);" description="guava-precondition-校验参数" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
