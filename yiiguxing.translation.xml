@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="para" />
+      <item value="parallel" />
       <item value="operate" />
       <item value="操作" />
       <item value="opera" />
@@ -49,8 +51,6 @@
       <item value="permission" />
       <item value="授权" />
       <item value="权限" />
-      <item value="自定义ui" />
-      <item value="praise" />
     </histories>
     <option name="languageScores">
       <map>
