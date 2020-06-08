@@ -88,10 +88,4 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="selection_optional" value="Optional&lt;T&gt; $name$ = Optional.of($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
