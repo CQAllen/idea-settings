@@ -1,0 +1,22 @@
+<templateSet group="self_selection (Ctrl+Alt+T &gt; Curround With)">
+  <template name="sect_opt_of" value="Optional&lt;T&gt; optional = Optional.of($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sect_opt_fromNullable" value="Optional&lt;T&gt; optional = Optional.fromNullable($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_opt_absent" value="Optional&lt;T&gt; optional = Optional.absent();" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_opt_presentInstances" value="Iterable&lt;T&gt; iterable = Optional.presentInstances();" description="从提供的optionals返回每个实例的存在的值，从而跳过absent()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
