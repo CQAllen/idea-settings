@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Binary Stream" />
+      <item value="Decoder" />
+      <item value="Encoder" />
+      <item value="realtime" />
       <item value="Beta" />
       <item value="描述" />
       <item value="推送" />
@@ -47,17 +51,16 @@
       <item value="纵向" />
       <item value="横向" />
       <item value="hor" />
-      <item value="横转纵" />
-      <item value="横纵" />
-      <item value="横" />
-      <item value="限流" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
