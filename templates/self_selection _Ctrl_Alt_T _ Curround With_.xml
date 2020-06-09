@@ -1,4 +1,4 @@
-<templateSet group="self_selection">
+<templateSet group="self_selection (Ctrl+Alt+T &gt; Curround With)">
   <template name="sect_opt_of" value="Optional&lt;T&gt; optional = Optional.of($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
