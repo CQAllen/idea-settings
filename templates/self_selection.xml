@@ -1,0 +1,12 @@
+<templateSet group="self_selection">
+  <template name="sect_opt_of" value="Optional&lt;T&gt; optional = Optional.of($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sect_opt_nullable" value="Optional&lt;T&gt; optional = Optional.fromNullable($SELECTION$);" description="optional代码块-提取选中代码块增加Optional" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
