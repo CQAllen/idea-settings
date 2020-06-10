@@ -42,4 +42,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_api_resvo" value="@ApiModelProperty(&quot;&quot;)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
