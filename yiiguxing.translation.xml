@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We're sorry but bsh-app doesn't work properly without JavaScript enabled. Please enable it to continue." />
       <item value="声音" />
       <item value="电视" />
       <item value="类别" />
@@ -50,11 +51,10 @@
       <item value="描述" />
       <item value="推送" />
       <item value="surround" />
-      <item value="lib" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
+        <entry key="CHINESE" value="128" />
         <entry key="ENGLISH" value="128" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
