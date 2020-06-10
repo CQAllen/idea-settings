@@ -1,10 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-09-04T19:47:43</property>
+    <property name="description">desc</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.6.0.0</property>
-    <property name="modified">2020-02-15T16:28:58</property>
+    <property name="modified">2020-06-10T16:30:05</property>
     <property name="originalScheme">Darcula</property>
+    <property name="vendorMail">huaiao_chen@163.com</property>
+    <property name="vendorName">huaiao</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_HIJACKED" value="" />
