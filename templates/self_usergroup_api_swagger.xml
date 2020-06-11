@@ -1,4 +1,4 @@
-<templateSet group="self_usergroup_swagger_api">
+<templateSet group="self_usergroup_api_swagger">
   <template name="lt_api_property_model_false" value="@DataValid(description =&quot;&quot;,nullable = false)&#10;@ApiModelProperty(value = &quot;&quot;,required = false)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -9,12 +9,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_controller" value="@Api(tags = &quot;&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_class" value="@Api(tags = &quot;&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_request_post" value="@ApiOperation(value = &quot;$index$&quot;,notes = &quot;&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_control_post" value="@ApiOperation(value = &quot;$index$&quot;,notes = &quot;&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.POST)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
     <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -36,7 +36,13 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lt_api_request_get" value="@ApiOperation(value = &quot;$index$&quot;,notes = &quot;&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.GET)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
+  <template name="lt_api_control_get" value="@ApiOperation(value = &quot;$index$&quot;,notes = &quot;&quot;)&#10;@RequestMapping(value = &quot;&quot;, method = RequestMethod.GET)" description="@ApiOperation-具体的接口增加swagger-apioperation支持" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_api_resvo" value="@ApiModelProperty(&quot;$index$&quot;)" description="@ApiModelProperty-字段增加swagger" toReformat="false" toShortenFQNames="true">
     <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
