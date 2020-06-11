@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="广告" />
       <item value="folder" />
       <item value="We're sorry but bsh-app doesn't work properly without JavaScript enabled. Please enable it to continue." />
       <item value="声音" />
@@ -10,7 +11,6 @@
       <item value="占比" />
       <item value="daily" />
       <item value="趋势" />
-      <item value="广告" />
       <item value="trade" />
       <item value="行业" />
       <item value="百分比" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
