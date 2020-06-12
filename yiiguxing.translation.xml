@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="percent" />
+      <item value="百分比" />
+      <item value="比例" />
+      <item value="rate" />
       <item value="province" />
       <item value="广告" />
       <item value="folder" />
@@ -8,13 +12,11 @@
       <item value="声音" />
       <item value="电视" />
       <item value="类别" />
-      <item value="percent" />
       <item value="占比" />
       <item value="daily" />
       <item value="趋势" />
       <item value="trade" />
       <item value="行业" />
-      <item value="百分比" />
       <item value="全部" />
       <item value="total" />
       <item value="汇总" />
@@ -49,13 +51,11 @@
       <item value="Encoder" />
       <item value="realtime" />
       <item value="Beta" />
-      <item value="描述" />
-      <item value="推送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="130" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
