@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="command" />
+      <item value="bash" />
+      <item value="命令" />
+      <item value="prune" />
       <item value="recent" />
       <item value="String" />
       <item value="File Input Stream" />
@@ -47,15 +51,11 @@
       <item value="物业" />
       <item value="开门次数" />
       <item value="traffic" />
-      <item value="人流量" />
-      <item value="community" />
-      <item value="社区" />
-      <item value="地图" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
