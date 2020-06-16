@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/AppData/Local/Temp/1.txt" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/guava" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/guava/guava" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/openjdk-jdk-jdk/openjdk-jdk-jdk" firstStartUp="false" />
