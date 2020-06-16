@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/AppData/Local/Temp/1.txt" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/guava" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/guava/guava" firstStartUp="false" />
     <entry projectName="$USER_HOME$/OneDrive/java-code-opensource/openjdk-jdk-jdk/openjdk-jdk-jdk" firstStartUp="false" />
@@ -14,6 +15,7 @@
     <entry projectName="D:/worth/code/springboot" firstStartUp="false" />
     <entry projectName="D:/worth/code/springboot/springboot-mongodb" firstStartUp="false" />
     <entry projectName="D:/worth/code/springboot/springboot-redis" firstStartUp="false" />
+    <entry projectName="D:/worth/idea-code" firstStartUp="false" />
     <entry projectName="D:/worth/jenkins-web" firstStartUp="false" />
     <entry projectName="D:/worth/jenkins-web/pom" firstStartUp="false" />
     <entry projectName="D:/worth/junit-code" firstStartUp="false" />
@@ -33,10 +35,13 @@
     <entry projectName="E:/springcloud-appsdk/biz-service" firstStartUp="false" />
     <entry projectName="E:/springcloud-appsdk/ms-comm-datareader" firstStartUp="false" />
     <entry projectName="E:/springcloud-appsdk/ms-comm-service" firstStartUp="false" />
+    <entry projectName="F:/code-doordu/ddflow-core/v1.8.4.0.3_hotfix" firstStartUp="false" />
     <entry projectName="F:/code-doordu/ddflow-liantong/V1.6.6.1_hotfix_pingshan" firstStartUp="false" />
     <entry projectName="F:/code-doordu/springcloud-ddflow/biz-server/release1.0.0" firstStartUp="false" />
     <entry projectName="F:/code-doordu/springcloud-ddflow/oem-ms-comm-service/release1.0.0" firstStartUp="false" />
     <entry projectName="F:/code-github/guava" firstStartUp="false" />
+    <entry projectName="F:/tool-jgit/bshapp/release" firstStartUp="false" />
+    <entry projectName="F:/tool-jgit/ddflow/release_refactor_zhsq" firstStartUp="false" />
     <entry projectName="IPC_1.3.0.0" firstStartUp="false" />
     <entry projectName="V1.7.6.1" firstStartUp="false" />
     <entry projectName="cms" firstStartUp="false" />

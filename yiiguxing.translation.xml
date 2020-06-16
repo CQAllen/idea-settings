@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="command" />
+      <item value="bash" />
+      <item value="命令" />
+      <item value="prune" />
+      <item value="recent" />
+      <item value="String" />
+      <item value="File Input Stream" />
+      <item value="FileInputStream" />
+      <item value="背景" />
+      <item value="coordinate" />
+      <item value="Allow parallel run" />
+      <item value="helloWorld" />
+      <item value="Administrative-divisions-of-China" />
+      <item value="percent" />
+      <item value="百分比" />
+      <item value="比例" />
+      <item value="rate" />
       <item value="province" />
       <item value="广告" />
       <item value="folder" />
@@ -8,13 +25,11 @@
       <item value="声音" />
       <item value="电视" />
       <item value="类别" />
-      <item value="percent" />
       <item value="占比" />
       <item value="daily" />
       <item value="趋势" />
       <item value="trade" />
       <item value="行业" />
-      <item value="百分比" />
       <item value="全部" />
       <item value="total" />
       <item value="汇总" />
@@ -36,26 +51,11 @@
       <item value="物业" />
       <item value="开门次数" />
       <item value="traffic" />
-      <item value="人流量" />
-      <item value="community" />
-      <item value="社区" />
-      <item value="地图" />
-      <item value="住户" />
-      <item value="government" />
-      <item value="--diff-filter=[(A|C|D|M|R|T|U|X|B)…​[*]] Select only files that are Added (A), Copied (C), Deleted (D), Modified (M), Renamed (R), have their type (i.e. regular file, symlink, submodule, …​) changed (T), are Unmerged (U), are Unknown (X), or have had their pairing Broken (B). Any combination of the filter characters (including none) can be used. When * (All-or-none) is added to the combination, all paths are selected if there is any file that matches other criteria in the comparison; if there is no file that matches other criteria, nothing is selected.  Also, these upper-case letters can be downcased to exclude. E.g. --diff-filter=ad excludes added and deleted paths.  Note that not all diffs can feature all types. For instance, diffs from the index to the working tree can never have Added entries (because the set of paths included in the diff is limited by what is in the index). Similarly, copied and renamed entries cannot appear if detection for those types is disabled." />
-      <item value="recent" />
-      <item value="Binary Stream" />
-      <item value="Decoder" />
-      <item value="Encoder" />
-      <item value="realtime" />
-      <item value="Beta" />
-      <item value="描述" />
-      <item value="推送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>

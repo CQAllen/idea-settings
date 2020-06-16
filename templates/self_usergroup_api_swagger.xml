@@ -48,4 +48,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_api_class【操作】" value="@Api(tags = &quot;【操作】&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lt_api_class【查询】" value="@Api(tags = &quot;【查询】&quot;)&#10;@RestController&#10;@RequestMapping(&quot;&quot;)" description="@Api-标识，增加位置是Controller" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
