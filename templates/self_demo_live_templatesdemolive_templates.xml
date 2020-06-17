@@ -15,4 +15,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="lt_demo_opt_of" value="// var: $var$&#10;Optional&lt;$type$&gt; optional = Optional.of($var$);" description="从提供的optionals返回每个实例的存在的值，从而跳过absent()" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="typeOfVariable(var)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
