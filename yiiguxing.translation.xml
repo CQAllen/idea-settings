@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transparency" />
+      <item value="透明度" />
+      <item value="透明" />
+      <item value="图像透明度" />
+      <item value="白边" />
       <item value="* &lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt;    *    * @param x The horizontal component (i.e. which column)    * @param y The vertical component (i.e. which row)    * @return value of given bit in matrix" />
       <item value="animateCircle" />
       <item value="command" />
@@ -46,16 +51,11 @@
       <item value="绑定" />
       <item value="小区" />
       <item value="室内" />
-      <item value="广告屏" />
-      <item value="直营" />
-      <item value="终端" />
-      <item value="政府" />
-      <item value="物业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
