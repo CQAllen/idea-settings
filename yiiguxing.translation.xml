@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt; * * @param x The horizontal component (i.e. which column) * @param y The vertical component (i.e. which row) * @return value of given bit in matrix" />
       <item value="设计模式" />
       <item value="开关" />
       <item value="状况" />
@@ -50,12 +51,11 @@
       <item value="电视" />
       <item value="类别" />
       <item value="占比" />
-      <item value="daily" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
