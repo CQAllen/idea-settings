@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authentication Failed Exception" />
+      <item value="AuthenticationFailedException" />
       <item value="email" />
       <item value="mail" />
       <item value="钉钉群机器人" />
@@ -49,13 +51,11 @@
       <item value="scale" />
       <item value="Proportion" />
       <item value="分布地区" />
-      <item value="安装" />
-      <item value="顾客" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
