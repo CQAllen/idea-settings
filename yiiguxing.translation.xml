@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常通知" />
       <item value="transparency" />
       <item value="透明度" />
       <item value="透明" />
@@ -50,12 +51,11 @@
       <item value="解绑" />
       <item value="绑定" />
       <item value="小区" />
-      <item value="室内" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
