@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解决" />
       <item value="monitor" />
       <item value="mo" />
       <item value="分布式任务调度平台" />
@@ -50,12 +51,11 @@
       <item value="行业" />
       <item value="全部" />
       <item value="total" />
-      <item value="汇总" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
