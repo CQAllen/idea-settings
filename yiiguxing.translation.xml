@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状况" />
+      <item value="Everyday" />
+      <item value="执行情况" />
       <item value="解决" />
       <item value="monitor" />
       <item value="mo" />
@@ -48,14 +51,11 @@
       <item value="daily" />
       <item value="趋势" />
       <item value="trade" />
-      <item value="行业" />
-      <item value="全部" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
