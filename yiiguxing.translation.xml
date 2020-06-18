@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="email" />
+      <item value="mail" />
+      <item value="钉钉群机器人" />
       <item value="图文" />
       <item value="异常通知" />
       <item value="transparency" />
@@ -48,13 +51,10 @@
       <item value="分布地区" />
       <item value="安装" />
       <item value="顾客" />
-      <item value="客户" />
-      <item value="解绑" />
-      <item value="绑定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
+        <entry key="CHINESE" value="139" />
         <entry key="ENGLISH" value="139" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
