@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="规则" />
       <item value="arthas" />
       <item value="301 Moved Permanently" />
       <item value="Bitcoin" />
@@ -50,12 +51,11 @@
       <item value="比例" />
       <item value="rate" />
       <item value="province" />
-      <item value="广告" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
