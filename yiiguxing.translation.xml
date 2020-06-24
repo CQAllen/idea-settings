@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FixSize" />
+      <item value="traffic" />
+      <item value="人流量" />
+      <item value="realtime" />
       <item value="坐标点" />
       <item value="经纬度" />
       <item value="地图" />
@@ -47,15 +51,11 @@
       <item value="File Input Stream" />
       <item value="FileInputStream" />
       <item value="背景" />
-      <item value="coordinate" />
-      <item value="Allow parallel run" />
-      <item value="helloWorld" />
-      <item value="Administrative-divisions-of-China" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="149" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
