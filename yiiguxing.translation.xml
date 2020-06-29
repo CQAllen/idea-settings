@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="progress" />
+      <item value="progress rate" />
+      <item value="进度" />
+      <item value="realtime" />
+      <item value="realtype" />
+      <item value="对象" />
+      <item value="outcome" />
+      <item value="结果" />
+      <item value="副标题" />
       <item value="bush" />
       <item value="factory owner" />
       <item value="厂商" />
@@ -26,7 +35,6 @@
       <item value="FixSize" />
       <item value="traffic" />
       <item value="人流量" />
-      <item value="realtime" />
       <item value="坐标点" />
       <item value="经纬度" />
       <item value="地图" />
@@ -43,19 +51,11 @@
       <item value="public" />
       <item value="&lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt; * * @param x The horizontal component (i.e. which column) * @param y The vertical component (i.e. which row) * @return value of given bit in matrix" />
       <item value="设计模式" />
-      <item value="开关" />
-      <item value="状况" />
-      <item value="Everyday" />
-      <item value="执行情况" />
-      <item value="解决" />
-      <item value="monitor" />
-      <item value="mo" />
-      <item value="分布式任务调度平台" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
