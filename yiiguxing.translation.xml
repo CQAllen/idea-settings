@@ -1,12 +1,40 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="progress" />
+      <item value="progress rate" />
+      <item value="进度" />
+      <item value="realtime" />
+      <item value="realtype" />
+      <item value="对象" />
+      <item value="outcome" />
+      <item value="结果" />
+      <item value="副标题" />
+      <item value="bush" />
+      <item value="factory owner" />
+      <item value="厂商" />
+      <item value="常常" />
+      <item value="firm" />
+      <item value="设备" />
+      <item value="推送" />
+      <item value="Release" />
+      <item value="下发小区" />
+      <item value="timing" />
+      <item value="定时" />
+      <item value="定时推送" />
+      <item value="注解" />
+      <item value="项目启动完成" />
+      <item value="remote hung up unexpectedly" />
+      <item value="quit" />
+      <item value="退出" />
+      <item value="过期" />
+      <item value="延伸" />
+      <item value="眼神" />
       <item value="Pre Steps" />
       <item value="内存" />
       <item value="FixSize" />
       <item value="traffic" />
       <item value="人流量" />
-      <item value="realtime" />
       <item value="坐标点" />
       <item value="经纬度" />
       <item value="地图" />
@@ -23,39 +51,11 @@
       <item value="public" />
       <item value="&lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt; * * @param x The horizontal component (i.e. which column) * @param y The vertical component (i.e. which row) * @return value of given bit in matrix" />
       <item value="设计模式" />
-      <item value="开关" />
-      <item value="状况" />
-      <item value="Everyday" />
-      <item value="执行情况" />
-      <item value="解决" />
-      <item value="monitor" />
-      <item value="mo" />
-      <item value="分布式任务调度平台" />
-      <item value="分布式任务调度" />
-      <item value="Authentication Failed Exception" />
-      <item value="AuthenticationFailedException" />
-      <item value="email" />
-      <item value="mail" />
-      <item value="钉钉群机器人" />
-      <item value="图文" />
-      <item value="异常通知" />
-      <item value="transparency" />
-      <item value="透明度" />
-      <item value="透明" />
-      <item value="图像透明度" />
-      <item value="白边" />
-      <item value="* &lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt;    *    * @param x The horizontal component (i.e. which column)    * @param y The vertical component (i.e. which row)    * @return value of given bit in matrix" />
-      <item value="animateCircle" />
-      <item value="command" />
-      <item value="prune" />
-      <item value="recent" />
-      <item value="String" />
-      <item value="File Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
