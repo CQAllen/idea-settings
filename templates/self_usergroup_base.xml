@@ -1,10 +1,4 @@
 <templateSet group="self_usergroup_base">
-  <template name="lt_log_slf4j" value="// Logger打印日志对象&#10;$END$private static org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CURRENT_CLASS$.class.getName());" description="logger日志对象" toReformat="false" toShortenFQNames="true">
-    <variable name="CURRENT_CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="lt_method_author" value="/**&#10; * $index$&#10; * @param: $params$&#10; * @return: $return$&#10; * @author: huaiao&#10; * @date: $DATE$-$TIME$&#10;*/" description="java添加类方法说明" toReformat="false" toShortenFQNames="true">
     <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
@@ -74,11 +68,6 @@
   </template>
   <template name="lt_time_end_log" value="long timeMillis = Profiler.end();&#10;logger.warn(&quot;$current$接口耗时毫秒数:{}&quot;,timeMillis);" description="打印接口耗时-endtime" toReformat="false" toShortenFQNames="true">
     <variable name="current" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="lt_log_ex" value="logger.error(&quot;&quot;, ex);" description="增加异常日志" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
