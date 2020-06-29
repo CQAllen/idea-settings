@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bush" />
       <item value="factory owner" />
       <item value="厂商" />
       <item value="常常" />
@@ -50,7 +51,6 @@
       <item value="monitor" />
       <item value="mo" />
       <item value="分布式任务调度平台" />
-      <item value="分布式任务调度" />
     </histories>
     <option name="languageScores">
       <map>
