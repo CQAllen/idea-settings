@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="factory owner" />
+      <item value="厂商" />
+      <item value="常常" />
+      <item value="firm" />
+      <item value="设备" />
+      <item value="推送" />
+      <item value="Release" />
+      <item value="下发小区" />
+      <item value="timing" />
+      <item value="定时" />
+      <item value="定时推送" />
       <item value="注解" />
       <item value="项目启动完成" />
       <item value="remote hung up unexpectedly" />
@@ -40,22 +51,11 @@
       <item value="mo" />
       <item value="分布式任务调度平台" />
       <item value="分布式任务调度" />
-      <item value="Authentication Failed Exception" />
-      <item value="AuthenticationFailedException" />
-      <item value="email" />
-      <item value="mail" />
-      <item value="钉钉群机器人" />
-      <item value="图文" />
-      <item value="异常通知" />
-      <item value="transparency" />
-      <item value="透明度" />
-      <item value="透明" />
-      <item value="图像透明度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="155" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
