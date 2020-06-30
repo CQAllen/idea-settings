@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type" />
+      <item value="类别" />
       <item value="folder" />
       <item value="progress" />
       <item value="progress rate" />
@@ -49,13 +51,11 @@
       <item value="Bitcoin" />
       <item value="Concrete" />
       <item value="pattern" />
-      <item value="public" />
-      <item value="&lt;p&gt;Gets the requested bit, where true means black.&lt;/p&gt; * * @param x The horizontal component (i.e. which column) * @param y The vertical component (i.e. which row) * @return value of given bit in matrix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="159" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
