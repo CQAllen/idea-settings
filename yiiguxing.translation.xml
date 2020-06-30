@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="归档" />
+      <item value="方式" />
+      <item value="实时" />
+      <item value="及时" />
+      <item value="realtime" />
       <item value="set" />
       <item value="集合" />
       <item value="已推送" />
@@ -11,7 +16,6 @@
       <item value="progress" />
       <item value="progress rate" />
       <item value="进度" />
-      <item value="realtime" />
       <item value="realtype" />
       <item value="对象" />
       <item value="outcome" />
@@ -47,15 +51,11 @@
       <item value="地图" />
       <item value="dying" />
       <item value="命令" />
-      <item value="bash" />
-      <item value="Rebase" />
-      <item value="规则" />
-      <item value="arthas" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
