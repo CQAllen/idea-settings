@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排除" />
+      <item value="过滤" />
       <item value="个人工具类" />
       <item value="归档" />
       <item value="方式" />
@@ -49,8 +51,6 @@
       <item value="人流量" />
       <item value="坐标点" />
       <item value="经纬度" />
-      <item value="地图" />
-      <item value="dying" />
     </histories>
     <option name="languageScores">
       <map>
