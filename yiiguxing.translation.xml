@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="个人工具类" />
       <item value="归档" />
       <item value="方式" />
       <item value="实时" />
@@ -50,7 +51,6 @@
       <item value="经纬度" />
       <item value="地图" />
       <item value="dying" />
-      <item value="命令" />
     </histories>
     <option name="languageScores">
       <map>
