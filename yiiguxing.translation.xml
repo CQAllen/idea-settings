@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
       <item value="depth" />
       <item value="排除" />
       <item value="过滤" />
@@ -50,7 +51,6 @@
       <item value="FixSize" />
       <item value="traffic" />
       <item value="人流量" />
-      <item value="坐标点" />
     </histories>
     <option name="languageScores">
       <map>
