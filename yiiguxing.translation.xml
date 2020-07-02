@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advanced" />
+      <item value="https://ipsp.doordu.com/ipsp/sys/captcha.jpg?time=1593653841931&amp;uid=2" />
       <item value="构建" />
       <item value="equals" />
       <item value="plus" />
@@ -49,12 +51,10 @@
       <item value="remote hung up unexpectedly" />
       <item value="quit" />
       <item value="退出" />
-      <item value="过期" />
-      <item value="延伸" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
+        <entry key="CHINESE" value="163" />
         <entry key="ENGLISH" value="163" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
