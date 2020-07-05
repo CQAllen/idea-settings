@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/CQAllen/news.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/huo785/springboot2.0-shiro-jwt-layui-thymeleaf-swagger-mybatis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
